@@ -1,2 +1,4 @@
-# python-latex-compiler-ubuntu
-python script to compile latex (.tex)
+# To run
+python compile_latex.py <file_path(.tex)>
+
+This script will also install any required packages, no pre-reqs
